@@ -48,9 +48,9 @@ body{
     max-height: 35vh;
     transition: 0.8s ease-in-out;
 }
-.banner img:hover {
+/* .banner img:hover {
    transform: scale(1.15); 
-}
+} */
  
 form{
     display: flex;
