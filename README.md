@@ -32,7 +32,8 @@ Users can search for images by entering keywords in the search input field and c
 The search results are displayed dynamically on the page. Each result includes an image and a link to the source on Unsplash. Users can click on the image or the link to view the image on Unsplash in a new tab.
 
 ### Pagination
-> Definition: Separating print or digital content into discrete pages
+> Definition:
+> Separating print or digital content into discrete pages
 The search results are paginated to allow for easy navigation through multiple pages of results. The "Show more" button loads additional results, expanding the existing ones on the page.
 
 ## Technologies Used
