@@ -12,9 +12,12 @@ Pishur is a simple web application built with HTML, CSS, and JavaScript. Its pur
 
 To get started with Pishur, follow these steps:
 
-1. Clone the repository: [link to the repository]
-2. Open the project in your preferred code editor.
-3. Launch the application by opening the `index.html` file in a web browser.
+1. Clone the repository:
+   ```
+   git clone https://github.com/Ehiane/Pishur.git
+   ```
+3. Open the project in your preferred code editor.
+4. Launch the application by opening the `index.html` file in a web browser.
 
 ## Features
 
